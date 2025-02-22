@@ -5,11 +5,10 @@
 ## 📝 特長
 - 📖 **三行表示:** 読みやすさを追求
 - ⏱️ **速読トレーニング:** スピード調整機能
-- 🌙 **ダークモード対応**
 
 ## 📲 ダウンロード
-- [App Store](https://example.com)
-- [Google Play](https://example.com)
+- [App Store](https://example.com)　**未公開です**
+- [Google Play](https://example.com)　**未公開です**
 
 ## 💡 使い方
 1. アプリをインストール
