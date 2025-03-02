@@ -35,4 +35,4 @@
 [プライバシーポリシーはこちら](privacy.md)
 
 ## 📧 お問い合わせ
-example@example.com
+[お問い合わせはFormrunから](https://form.run/@yahoo-eF6XHIch4UKZT592Vk5I)
