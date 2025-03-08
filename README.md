@@ -35,10 +35,10 @@
 2.  速読したいWebページのURLかテキストを入力します。
 3.  3行表示モードで速読を開始します。
 
-・ダークモードを利用すると目に優しい表示になります。
-・スマートモードを利用するとより自然な区切り方になります。
-※このアプリではMeCab.DotNetの技術を利用しています。
-（This application uses MeCab.DotNet v1.2.0&#x0a;Copyright (C) 2006-2013 Taku Kudo and Nippon Telegraph and Telephone Corporation&#x0a;Copyright (C) 2019-2023 Kouji Matsui (@kekyo2)&#x0a;Licensed under LGPL 2.1&#x0a;Source code available at: https://github.com/kekyo/MeCab.DotNet）
+*   ・ダークモードを利用すると目に優しい表示になります。
+*   ・スマートモードを利用するとより自然な区切り方になります。
+*   ※このアプリではMeCab.DotNetの技術を利用しています。
+*   （This application uses MeCab.DotNet v1.2.0&#x0a;Copyright (C) 2006-2013 Taku Kudo and Nippon Telegraph and Telephone Corporation&#x0a;Copyright (C) 2019-2023 Kouji Matsui (@kekyo2)&#x0a;Licensed under LGPL 2.1&#x0a;Source code available at: https://github.com/kekyo/MeCab.DotNet）
 
 <br>
 
