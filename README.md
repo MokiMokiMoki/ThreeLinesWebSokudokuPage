@@ -105,21 +105,21 @@
 
 ## 📸 スクリーンショット
 
-### PC版アプリ画面（ライトモード）
+### アプリ画面（ライトモード）
 
-<img src="images/pic001.png" alt="PC版アプリ画面（ライトモード）" width="300">
+<img src="images/pic001.png" alt="アプリ画面（ライトモード）" width="300">
 
-### 実行時（3行表示・ライトモード）
+### 実行画面（ライトモード）
 
-<img src="images/pic002.png" alt="実行時（ライトモード）" width="300">
+<img src="images/pic002.png" alt="実行画面（ライトモード）" width="300">
 
-### PC版アプリ画面（ダークモード）
+### アプリ画面（ダークモード）
 
-<img src="images/pic003.png" alt="PC版アプリ画面（ダークモード）" width="300">
+<img src="images/pic003.png" alt="アプリ画面（ダークモード）" width="300">
 
-### 実行時（3行表示・ダークモード）
+### 実行画面（ダークモード）
 
-<img src="images/pic004.png" alt="実行時（ダークモード）" width="300">
+<img src="images/pic004.png" alt="実行画面（ダークモード）" width="300">
 
 <br>
 
