@@ -107,19 +107,19 @@
 
 ### PC版アプリ画面（ライトモード）
 
-<img src="images/pic001.png" alt="PC版アプリ画面" width="300">
+<img src="images/pic001.png" alt="PC版アプリ画面（ライトモード）" width="300">
 
-### ダークモード時の画面
+### 実行時（3行表示・ライトモード）
 
-<img src="images/pic002.png" alt="PC版アプリ画面（ダークモード）" width="300">
+<img src="images/pic002.png" alt="実行時（ライトモード）" width="300">
 
-### URL入力時
+### PC版アプリ画面（ダークモード）
 
-<img src="images/pic003.png" alt="URL入力時" width="300">
+<img src="images/pic003.png" alt="PC版アプリ画面（ダークモード）" width="300">
 
-### 実行時（3行表示）
+### 実行時（3行表示・ダークモード）
 
-<img src="images/pic004.png" alt="実行時" width="300">
+<img src="images/pic004.png" alt="実行時（ダークモード）" width="300">
 
 <br>
 
