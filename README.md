@@ -141,10 +141,10 @@
 
 ## 🔧 技術仕様
 
-* **プラットフォーム**: Windows / Android
-* **開発フレームワーク**: .NET MAUI (.NET 8)
+* **プラットフォーム**: Windows
+* **開発フレームワーク**: .NET MAUI (.NET 10)
 * **主要ライブラリ**: AngleSharp, MeCab.DotNet
 * **ライセンス**: MeCabはLGPL 2.1ライセンス
-* **対応言語**: 日本語、英語（UI）
+* **対応言語**: 日本語、English、中文、한국어、हिन्दी、Español、Français、العربية
 
 <br>
